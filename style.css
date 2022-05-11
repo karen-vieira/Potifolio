@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2? family= Creepster & family= DM+Sans:wght@400;500;700 & family= Indie+Flower & family= Poppins:wght@ 400;500;700 & display=trocar');
+
+h1{
+  text-align:center;
+}
+
+h2{
+  text-align: center;
+}
+
+body{
+  margin:0;
+  padding:0;
+  font-family: 'Creepster', DM Sans, indie flower, poppins;
+  color: #ffcbdb;
+  
+  
+}
+
+img {
+ height: 100%;
+ width: 100%;
+ object-fit: contain;
+ display: block;
+ margin: 0px auto;
+ border-radius: 50%;
+
+}
+
+.eu {
+ height:300px;
+ width: 300px;
+ display: block;
+ margin: 0px auto;
+}
+
+/*HEADER*/
+
+.header-container{
+  height:100vh;
+  width:100vh;
+  background-color:#d5f2f5 ;
+  background-repeat: ;
+  background-position: ;
+  background-size: ;
+}
+
+#nav-bar{
+  text-align: center ;
+  background-color: #c46fff ;
+  
+  
+}
+#nav-bar ul{
+  
+}
+#nav-bar li{
+   list-style-type: none;
+  
+}
+#nav-bar li a{
+  text-decoration:none;
+  
+}
+
+/* .items{
+  list-style: none;
+  font-family: ;
+  font-size: 15px;
+}
+  */ 
+.social-midia{
+ text-align: center;
+ background-color: #c46fff ;
+  
+  
+}
+
+
+
